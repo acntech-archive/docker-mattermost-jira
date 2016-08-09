@@ -39,7 +39,7 @@ Environment Variables:
 
 `MATTERMOST_SERVER_PATH`      : The path to the hooks at Mattermost Server
 
-`MATTERMOST_SERVER_PROTO`     : http og https for Mattermost Server
+`MATTERMOST_SERVER_PROTO`     : http or https for Mattermost Server
 
 `MATTERMOST_SERVER`           : Hostname/IP of Mattermost Server
 
