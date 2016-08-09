@@ -54,7 +54,7 @@ Environment Variables:
 
 # License
 
-This image is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full license text.
+This image is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE.txt) for the full license text.
 
 # Supported Docker versions
 
