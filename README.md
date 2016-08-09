@@ -34,9 +34,13 @@ acntech/adop-mattermost-jira
 You can verify that the JIRA Webhook Bridge is running by entering http://localhost:81.
 
 Environment Variables:
+
 `MATTERMOST_SERVER_PORT`      : The port which Mattermost Server is running at
+
 `MATTERMOST_SERVER_PATH`      : The path to the hooks at Mattermost Server
+
 `MATTERMOST_SERVER_PROTO`     : http og https for Mattermost Server
+
 `MATTERMOST_SERVER`           : Hostname/IP of Mattermost Server
 
 #### Create Mattermost Incoming WebHook ID
