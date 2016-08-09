@@ -5,6 +5,7 @@
 [Mattermost](https://www.mattermost.org/) is an open source, self-hosted [Slack](https://slack.com/) -alternative. This is an dockerised [JIRA Webhook Bridge for Mattermost](https://www.mattermost.org/community-applications/).
 
 > [wikipedia.org/wiki/Jira_(software)](https://en.wikipedia.org/wiki/Jira_(software))
+
 > [mattermost.org](https://www.mattermost.org)
 
 <img src="jira-logo.png" alt="JIRA Software Logo" width="450px"/> <img src="mattermost-logo.png" alt="Mattermost Logo" width="450px"/>
